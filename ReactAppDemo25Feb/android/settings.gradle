@@ -1,0 +1,3 @@
+rootProject.name = 'ReactAppDemo'
+
+include ':app'
